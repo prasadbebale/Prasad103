@@ -11,8 +11,8 @@
 
 ## 👋 Hi, I'm Prasad Bebale
 
-- Portfolio https://prasad103.github.io/Portfolio/
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/prasad103)
+- Portfolio https://prasadbebale.github.io/Portfolio/
+- 👨‍💻 Explore my projects on [GitHub](https://prasadbebale.github.io)
 - 📫 Reach me at **prasadbebale010@gmail.com**
 
 ### Connect with me:
