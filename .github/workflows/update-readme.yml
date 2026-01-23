@@ -19,10 +19,10 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          config_timezone: Asia/Kolkata  # Adjust to user's timezone
+          config_timezone: Asia/Kolkata
       - name: Fetch Random Quote
         run: |
           QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content + " — " + .author')
