@@ -51,3 +51,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbebale&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
+### GitHub Activity Calendar:
+
+<p align="center">
+  <img src="metrics.svg" alt="GitHub Activity Calendar" />
+</p>
+
